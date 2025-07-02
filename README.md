@@ -15,4 +15,4 @@ portfolio-day1/
 ├── style/  
 │   └── style.css  
 ├── images/ (add your profile photo later)  
-└── README.md "C:\Users\utkar\.vscode\portfolio-day1"
+└── README.md 
